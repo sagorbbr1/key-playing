@@ -4,11 +4,12 @@ body {
   box-sizing: border-box;
   background-image: linear-gradient(to right, #b567f121, #7b0bc025),
     url(../img/hero-bg.jpg);
+  background-size: cover;
   background-position: center;
-  background-size : cover;
   height: 100vh;
 }
-
+.music-box {
+}
 
 .keys {
   text-align: center;
