@@ -34,22 +34,3 @@ body {
   border-color: rgb(93, 33, 93);
   box-shadow: 0 10px 15px rgb(58, 32, 32);
 }
-
-.copyright a:link,
-.copyright a:visited {
-  font-size: 30px;
-  text-decoration: none;
-  color: rgb(73, 0, 73);
-  display: inline-block;
-  text-align: center;
-  
-}
-
-h1 {
-  color: rgb(49, 51, 30);
-  text-transform: uppercase;
-  font-style: italic;
-  padding: 0 10px;
-  text-align : center;
-}
-
