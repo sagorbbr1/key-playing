@@ -14,12 +14,13 @@ body {
   font-size: 30px;
   text-decoration: none;
   color: rgb(73, 0, 73);
-  display: inline-block;
+  display: block;
   text-align: center;
+  margin: 0 auto;
   
 }
 h1 {
-  color: rgb(49, 51, 30);
+  color: rgb(27, 142, 234);
   text-transform: uppercase;
   font-style: italic;
   padding: 0 10px;
