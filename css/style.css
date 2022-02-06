@@ -8,6 +8,24 @@ body {
   background-position: center;
   height: 100vh;
 }
+
+.copyright a:link,
+.copyright a:visited {
+  font-size: 30px;
+  text-decoration: none;
+  color: rgb(73, 0, 73);
+  display: inline-block;
+  text-align: center;
+  
+}
+h1 {
+  color: rgb(49, 51, 30);
+  text-transform: uppercase;
+  font-style: italic;
+  padding: 0 10px;
+  text-align : center;
+}
+
 .music-box {
 }
 
